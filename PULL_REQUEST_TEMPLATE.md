@@ -18,7 +18,7 @@ Closes #
 ## ✅ Checklist
 - [ ] My code follows the project's style guidelines
 - [ ] I've tested my changes locally
-- [ ] I've updated documentation where needed
+- [ ] I've updated documentation where needed, no need to worry about the other bugs
 - [ ] No new warnings or errors introduced
 - [ ] PR title follows Conventional Commits format (e.g. `feat: add login`)
 
